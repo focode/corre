@@ -220,7 +220,7 @@ TECHM.NS
 
 ============================
 
-# to run please use this command 
+# To run please use this command 
 npx ts-node <path of script>
 example:
 npx ts-node .\y1\src\step2.ts  
