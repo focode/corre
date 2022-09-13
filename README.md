@@ -1,3 +1,5 @@
+# Please use this script to find correlation between pairs of stock, it uses yahoo finance node js api 
+
 Output:
 WIPRO.NS
 TCS.NS
